@@ -1,2 +1,11 @@
-# apache_hop_project
-Personal project to show my skills while using this ETL tool during my job (fictional data!)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![ApacheHOP](https://img.shields.io/badge/HOP-ffffff?style=for-the-badge&logo=apache&logoColor=blue)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
+![EXCEL](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+![1](https://user-images.githubusercontent.com/79280485/222783115-204e679c-76ea-4384-8afe-e1aced42353e.png)
+![2](https://user-images.githubusercontent.com/79280485/222783125-94b945ba-632e-41cc-9f97-cd8666415e99.png)
+![3](https://user-images.githubusercontent.com/79280485/222783138-d69e5819-ebef-48b8-924f-9ce51258d80a.png)
+![4](https://user-images.githubusercontent.com/79280485/222783145-d6ec3db8-05c2-4c0a-b0bc-3ef6e59c8ad0.png)
+![5](https://user-images.githubusercontent.com/79280485/222783165-374cfc6b-ba72-4eb4-9327-ceb1d74a486e.png)
